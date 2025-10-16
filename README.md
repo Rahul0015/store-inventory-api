@@ -36,7 +36,7 @@ store_inventory_api/
 
 ##  Setup Instructions
 
-### 1️ Clo
+### 1️ Clone Repository
 
 ```bash
 git clone https://github.com/yourusername/store-inventory-api.git
